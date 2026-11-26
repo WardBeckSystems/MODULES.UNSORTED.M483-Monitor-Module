@@ -37,7 +37,7 @@ Wiki page: [M483](../../../../PAGES/M483.md)
 - **Title block:** (352, 18)–(428, 28) mm: WBS WAAD- · BeCk Byeteme KT
 - **Wiring (first pass):** 156 connected wire groups from 927 runs; labelled ends: 154 mm → FAS; 56 mm → IcRs; 52 mm → FAS; 30 mm → IcRs; 22 mm → @TA
 
-Every curve, box, word and wire group: [1978 - 483-02-002 - M483A MONITOR MODULE - DRN DM-ELJ - ISS 1 (traced).json](../SCHEMATICS/1978%20-%20483-02-002%20-%20M483A%20MONITOR%20MODULE%20-%20DRN%20DM-ELJ%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 483-02-002 - M483A MONITOR MODULE - DRN DM-ELJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 483-02-002 - M483A MONITOR MODULE - DRN DM-ELJ - ISS 1 (traced).json](../SCHEMATICS/1978%20-%20483-02-002%20-%20M483A%20MONITOR%20MODULE%20-%20DRN%20DM-ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 483-02-002 - M483A MONITOR MODULE - DRN DM-ELJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

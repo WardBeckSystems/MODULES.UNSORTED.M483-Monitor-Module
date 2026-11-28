@@ -1,5 +1,5 @@
 # 1978 - 483-02-002 - M483A MONITOR MODULE - DRN DM-ELJ - ISS 1.jpg
-Wiki page: [M483](../../../../PAGES/M483.md)
+Wiki page: [M483](../)
 
 
 - **Year:** 1978 (title block date)

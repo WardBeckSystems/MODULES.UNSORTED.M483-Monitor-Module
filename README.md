@@ -1,6 +1,6 @@
 # M483 Monitor Module · Monitoring
 
-Ward-Beck Systems M483, 1978|11. Wiki page: [M483 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M483.html)
+Ward-Beck Systems M483, 1978|11. Wiki page: [M483 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M483-Monitor-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
